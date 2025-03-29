@@ -12,7 +12,7 @@ The player is controlled by movement.
 
 ## 🛠️ Installation & Running the Game  
 
-- git clone https://github.com/yourusername/CoinQuest.git
+- git clone https://github.com/Witcape/CoinQuest.git
 - cd CoinQuest
 - pip install -r requirements.txt 
 - python coinquest.py 
